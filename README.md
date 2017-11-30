@@ -1,6 +1,6 @@
-# Southwest Price Tracker
+# sw Price Tracker
 
-Nothing super exciting, but serves as a way to quickly see 'Wanna Get Away' prices for Southwest Airlines. Eventually the goal is to do some sort of notification when prices change, but for now just serves as an API to get the prices as an array.
+Nothing super exciting, but serves as a way to quickly see 'Wanna Get Away' prices for sw Airlines. Eventually the goal is to do some sort of notification when prices change, but for now just serves as an API to get the prices as an array.
 
 ## How's it Work?
 
